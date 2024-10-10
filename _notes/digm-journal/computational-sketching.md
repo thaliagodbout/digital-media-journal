@@ -49,4 +49,4 @@ Other ideas for ways to map time in a gesture:
 - Having the width of a line "pulse" on intervals
 - "Echoes" of a line appearing after a length of time depending on the speed of the gesture
 
-These two only create static lines, but I'll want to animate the lines once they're drawn to give them some more life and add some "generative variation".
+These two only create static lines, but next we'll be animating the lines to give them some more life. We do this in [[reproducing-curly|Reproducing Curly]]!
