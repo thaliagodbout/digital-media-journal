@@ -20,7 +20,8 @@ This goes back to our discussion about [[what-makes-something-interesting|what m
 While I've used [p5.js](https://p5js.org/) in the past (and I love it), I'd never really used JavaScript's Canvas API directly.
 
 Following along with Graham in class (and slightly modifying his example), I made a quick sketch that creates [[pseudorandomness|random]] colourful threads when you move the cursor. Clicking the canvas wipes it clean.
-<p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="ExBJXyx" data-pen-title="Untitled" data-user="thaliagodbout" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+
+<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="ExBJXyx" data-pen-title="Untitled" data-user="thaliagodbout" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thaliagodbout/pen/ExBJXyx">
   Untitled</a> by Thalia (<a href="https://codepen.io/thaliagodbout">@thaliagodbout</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -34,7 +35,7 @@ Next is to create a canvas that allows us to draw in response to mouse/touch mov
 
 Let's start out with a very simple drawing app. I made this one to start with as a base.
 
-<p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="VwoZJxO" data-pen-title="Simple Draw" data-user="thaliagodbout" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="VwoZJxO" data-pen-title="Simple Draw" data-user="thaliagodbout" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thaliagodbout/pen/VwoZJxO">
   Simple Draw</a> by Thalia (<a href="https://codepen.io/thaliagodbout">@thaliagodbout</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -43,7 +44,7 @@ Let's start out with a very simple drawing app. I made this one to start with as
 
 Reminiscent of writing with a fountain pen using thin ink on absorbent paper, I tracked the speed of the cursor to create thick, inky blotches whenever you move at a slower speed. (I actually meant to make this a smoother transition from thick to thin line widths, but ended up liking the sudden inky blotches.)
 
-<p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="mdNddYJ" data-pen-title="Simple Draw - inky" data-user="thaliagodbout" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="500" data-default-tab="js,result" data-slug-hash="mdNddYJ" data-pen-title="Simple Draw - inky" data-user="thaliagodbout" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/thaliagodbout/pen/mdNddYJ">
   Simple Draw - inky</a> by Thalia (<a href="https://codepen.io/thaliagodbout">@thaliagodbout</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
