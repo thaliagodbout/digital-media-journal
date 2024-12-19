@@ -1,6 +1,8 @@
 ---
 title: Computational Sketching
+created: 2024-09-19
 ---
+
 In Week 1 of Foundations of Digital Media, we talked about [John Maeda](https://en.wikipedia.org/wiki/John_Maeda)'s explorations in interactive graphics in combining computation with traditional art techniques.
 
 A few key takeaways from [Graham's Week 1 notes on computational sketching](https://alicelab.world/digm5010/#computational-sketching):
@@ -10,7 +12,7 @@ A few key takeaways from [Graham's Week 1 notes on computational sketching](http
 This goes back to our discussion about [[what-makes-something-interesting|what makes something interesting]]. These most interesting pixels that Maeda talks about represent **you** in the digital space - this could be the cursor of your pointing device, or perhaps your focus indicator. It situates you in a digital environment, and it's your gateway to interacting with elements in this environment.
 
 ## Learning about 2D drawing in class
-While I've used [p5.js](https://p5js.org/) in the past (and I adore it), I'd never really used JavaScript's Canvas API directly.
+While I've used [p5.js](https://p5js.org/) in the past (and I love it), I'd never really used JavaScript's Canvas API directly.
 
 Following along with Graham in class (and slightly modifying his example), I made a quick sketch that creates [[pseudorandomness|random]] colourful threads when you move the cursor. Clicking the canvas wipes it clean.
 <p class="codepen" data-height="300" data-default-tab="js,result" data-slug-hash="ExBJXyx" data-pen-title="Untitled" data-user="thaliagodbout" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
@@ -43,7 +45,7 @@ Reminiscent of writing with a fountain pen using thin ink on absorbent paper, I 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-<img alt="Curving scribbly lines with black inky blotches at curve joints" src="../../assets/inkyblotches.png">
+<img alt="Curving scribbly lines with black inky blotches at curve joints" src="/assets/inkyblotches.png">
 
 Other ideas for ways to map time in a gesture:
 - Having the width of a line "pulse" on intervals

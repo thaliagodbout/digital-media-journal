@@ -1,3 +1,8 @@
+---
+title: Flocking
+created: 2024-11-07
+---
+
 - last class we set up a flocking system with a flow field
 - want to set up the steering behaviours:
 	- Separation (avoidance)

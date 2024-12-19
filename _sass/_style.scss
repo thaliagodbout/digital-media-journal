@@ -26,7 +26,16 @@ body {
 time {
   display: block;
   color: $color-subtext;
-  margin: 0.5em 0 1em;
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+time.created-date span {
+  font-weight: bold;
+}
+
+time.tended-date span {
+  font-style: italic;
 }
 
 footer {
@@ -106,6 +115,10 @@ a {
 
 nav {
   margin: 1em 0 3em;
+}
+
+#notes-header {
+  margin: 0.5em 0 1em;
 }
 
 #notes-entry-container {
