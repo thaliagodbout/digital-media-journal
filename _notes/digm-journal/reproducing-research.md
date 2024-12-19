@@ -1,12 +1,17 @@
 ---
 title: "Reproducing Research"
 created: 2024-09-26
-last_modified_at: 2024-09-26
+last_modified_at: 2024-10-03
 ---
+
+<div class="overview">
+Rough notes on reflections about research reproduction from class.
+</div>
 
 ## What is Reproducing Research?
 
 - There is a difference between *reading* and *recreating* research
+- **Reading research:** Asks questions, consider alternatives, question assumptions, trustworthiness of author?
 - **Re-creating research:** "Perhaps I could do this differently, modify this or that"...so that we can *extend the research beyond where it got before*
 - Even if you do project work that doesn't answer your thesis questions - *it's still worth documenting!*
     - Negative results are not necessarily a bad thing

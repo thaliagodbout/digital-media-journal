@@ -4,6 +4,10 @@ created: 2024-11-07
 last_modified_at: 2024-11-07
 ---
 
+<div class="overview">
+Rough notes on reflections about research reproduction from class.
+</div>
+
 - last class we set up a flocking system with a flow field
 - want to set up the steering behaviours:
 	- Separation (avoidance)
