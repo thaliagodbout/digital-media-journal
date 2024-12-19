@@ -4,8 +4,9 @@ created: 2024-09-19
 last_modified_at: 2024-12-19
 ---
 
-[!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+<div class="overview">
+Explorations in Computational Sketching through 2D drawing.
+</div>
 
 In Week 1 of Foundations of Digital Media, we talked about [John Maeda](https://en.wikipedia.org/wiki/John_Maeda)'s explorations in interactive graphics in combining computation with traditional art techniques.
 
@@ -49,7 +50,7 @@ Reminiscent of writing with a fountain pen using thin ink on absorbent paper, I 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
-<img alt="Curving scribbly lines with black inky blotches at curve joints" src="/assets/inkyblotches.png">
+<img alt="Curving scribbly lines with black inky blotches at curve joints" src="{{site.baseurl}}/assets/inkyblotches.png">
 
 Other ideas for ways to map time in a gesture:
 - Having the width of a line "pulse" on intervals
