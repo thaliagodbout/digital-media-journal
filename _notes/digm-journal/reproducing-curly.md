@@ -1,7 +1,9 @@
 ---
 title: "Reproducing Curly"
 created: 2024-10-09
+last_modified_at: 2024-10-09
 ---
+
 After experimenting with [[computational-sketching|Computational Sketching]], to try recreating and building upon research, we've attempted to recreate and build upon Golan Levin's Curly/[Yellowtail](http://www.flong.com/archive/projects/yellowtail/index.html) in DIGM 5010.
 
 ## Recreating Curly in Class

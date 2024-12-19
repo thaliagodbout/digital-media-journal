@@ -1,6 +1,7 @@
 ---
 title: Collaborative Yellowtail with node.js
 created: 2024-11-14
+last_modified_at: 2024-11-14
 ---
 
 Let's make our yellowtail app collaborative so that people can interact online!

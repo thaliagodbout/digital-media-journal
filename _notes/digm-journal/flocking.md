@@ -1,6 +1,7 @@
 ---
 title: Flocking
 created: 2024-11-07
+last_modified_at: 2024-11-07
 ---
 
 - last class we set up a flocking system with a flow field

@@ -1,7 +1,11 @@
 ---
 title: Computational Sketching
 created: 2024-09-19
+last_modified_at: 2024-12-19
 ---
+
+[!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
 In Week 1 of Foundations of Digital Media, we talked about [John Maeda](https://en.wikipedia.org/wiki/John_Maeda)'s explorations in interactive graphics in combining computation with traditional art techniques.
 
