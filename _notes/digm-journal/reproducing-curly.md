@@ -30,6 +30,10 @@ This sort of "catch and release" feels playful - it added some life into the vir
 
 Aside from a playful worm world, this interaction lets us control when and where lines stop moving across the screen. This type of interaction might be useful if we added sound to the app - in a performance, influencing when each gesture stops and re-starts could control when a sound pauses, continues, or changes, adding more opportunities for expression.
 
+"You created an impact from your occupancy on the screen"
+
+
 ### Alternative Alterations
+
 
 ### Pseudocode

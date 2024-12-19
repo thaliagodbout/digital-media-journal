@@ -1,0 +1,7 @@
+- last class we set up a flocking system with a flow field
+- want to set up the steering behaviours:
+	- Separation (avoidance)
+	- Cohesion (center)
+	- Alignment
+- Spent a lot of time tweaking parameters to create believable steering behaviours
+- How can you add obstacles?
