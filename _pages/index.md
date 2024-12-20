@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to my Digital Garden &#127793;
 
-Here are my DIGM 5010 notes, sorted from least to most recently updated. For a list of notes in chronological order, check out the [Notes Archive](/archive).
+Here are my DIGM 5010 notes, sorted from least to most recently updated. For a list of notes in chronological order, check out the [Notes Archive]({{ site.baseurl }}/archive).
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at" | reverse %}
