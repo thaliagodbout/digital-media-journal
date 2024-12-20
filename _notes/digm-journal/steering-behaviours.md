@@ -1,11 +1,11 @@
 ---
 title: Steering Behaviours
-created: 2024-10-24
-last_modified_at: 2024-10-24
+created: 2024-10-30
+last_modified_at: 2024-10-30
 ---
 
 <div class="overview">
-Rough notes on reflections about research reproduction from class.
+Rough notes on discussions around steering behaviour research from class.
 </div>
 
 ## Discussing Steering Behaviour Research
@@ -20,14 +20,3 @@ Rough notes on reflections about research reproduction from class.
     - Action Selection
     - Steering (where he defined different algorithms modelling steering behaviours)
     - Locomotion
-
-## Progress in Class
-
-Working on reproducing these boid steering behaviours, we created this sketch together in class:
-
-<p class="codepen" data-height="500" data-default-tab="html,result" data-slug-hash="VworXVj" data-pen-title="5010 wk 7" data-preview="true" data-user="grrrwaaa" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/grrrwaaa/pen/VworXVj">
-  5010 wk 7</a> by Graham (<a href="https://codepen.io/grrrwaaa">@grrrwaaa</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
