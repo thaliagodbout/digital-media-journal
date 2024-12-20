@@ -16,7 +16,11 @@ My mom has been making large batches of kimchi lately with communities of studen
 
 Thinking about this making of kimchi as a slow, collaborative process around care and community sharing, I wondered how these values could apply to the way we understand technologies. When my mother invites groups of people over to make kimchi, it's not to create a kimchi assembly line for speed and efficiency - she does this for people to share this experience together, to learn and create together, to connect, and to care for them by providing a home-away-from-home. It is a slow and labourous process that she engages with to foster and care for her community, while preparing and preserving delicious, long-lasting food bursting with nutritional value to share with herself and others.
 
-What if we cared for our technologies (both in our use and creation of these technologies) in a similar way? With the same care, values, and time?
+I wrote down some questions around fermentation as a process and practice on this notebook page.
+
+<img alt="Scan of notes on fermentation, around values of slowness, community, ritual, sustainability, and open source practice" src="{{site.baseurl}}/assets/fermentation.JPG">
+
+**What if we cared for our technologies (both in our use and creation of these technologies) in a similar way? With the same care, values, and time?**
 
 In retrospect, these thoughts may have been inspired by a project I came across Summer 2024. [Tiny internets](https://tiny-inter.net/) focuses on web spaces, but I was interested in the process of technological design and the use of technologies more broadly. The project explores several questions around cultivating our web spaces - I find them so impactful and these questions probably re-wired my brain in some form:
 
@@ -57,3 +61,13 @@ I learned a lot from nurturing and caring with this community of microbes in my 
 <img alt="Loaf of freshly baked sourdough starter, a bit flat, but light and fluffy with a good brown crust" src="{{site.baseurl}}/assets/bread.png"/>
 
 Should I have been baking bread under the guise of research instead of writing my paper?? Should I be telling you, Graham, that I was baking bread instead of writing my paper? I don't know, but it was delicious and gave me time to contemplate a lot of these ideas.
+
+### Microscope Time
+
+For fun, I also borrowed Joel Ong's microscope (thanks Joel!) to look at my kimchi and sourdough starter. The magnification wasn't strong enough to clearly view yeasts and bacteria as I was hoping, but it was a cool time to get up close and personal with these ferments.
+
+You can mostly see the cabbage cells, chili oil, and what's probably CO2 bubbles. It was just for fun, so I didn't bother trying to source a microscope with higher magnification.
+
+<img alt="Microscope view of kimchi showing cabbage cells and chili oil" src="{{site.baseurl}}/assets/microscope-kimchi.png"/>
+
+<img alt="Microscope view of sourdough starter showing lots of air bubbles" src="{{site.baseurl}}/assets/microscope-sourdough.png"/>
