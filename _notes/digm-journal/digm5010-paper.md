@@ -27,7 +27,7 @@ I focused my annotated bibliography around these research areas, though afterwar
 
 A lot of these explorations aligned with my research for my major research project (MRP). This started with a small spread of keywords that I was interested in exploring and connecting, and which slowly grew throughout the term. This keyword map definitely helped not only with developing my ideas for my MRP, but also for this research paper.
 
-<img style="border:none;" alt="Scan of research keywords in notebook" src="{{site.baseurl}}/assets/keywords.jpg">
+<img style="border:none;" alt="Scan of research keywords in notebook" src="{{site.baseurl}}/assets/keywords.JPG">
 
 ## The Idea of Fermentation
 
