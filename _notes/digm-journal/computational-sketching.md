@@ -1,7 +1,7 @@
 ---
 title: Computational Sketching
 created: 2024-09-19
-last_modified_at: 2024-12-19
+last_modified_at: 2024-11-30
 ---
 
 <div class="overview">

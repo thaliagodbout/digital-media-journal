@@ -1,7 +1,7 @@
 ---
 title: "Reproducing Curly"
 created: 2024-10-09
-last_modified_at: 2024-10-09
+last_modified_at: 2024-11-30
 ---
 
 <div class="overview">
@@ -47,3 +47,5 @@ Aside from a playful worm world, this interaction let us control when and where 
 ### Alternative Alterations
 
 I also considered adding "gravity" to the world in different directions depending on device accelerometer readings, but didn't have time to work on that.
+
+Later on, we also [[nodejs|turned curly into a collaborative environment using node.js]]!
