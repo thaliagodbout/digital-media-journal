@@ -26,8 +26,4 @@ Okay, so I chose to split this process across multiple notes. I rambled way too 
 - [[annotated-bibliographies|Early Explorations and Annotated Bibliographies]]
 - [[fermenting|Exploring Fermentation]]
 - [[refining-paper|Refining Research Paper Questions and Structure]]
-
-
-## I'm not done with this! ah! eep!
-
-There'll be more here soon. I'm still trying to transfer my messy notes into something readable here. If you're Graham, pls come back soon!! &#128534;
+- [[submitting-paper|Submitting a Paper to ISEA]]
