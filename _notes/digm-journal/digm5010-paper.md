@@ -1,7 +1,7 @@
 ---
 title: DIGM 5010 Research Paper Process
 created: 2024-12-01
-last_modified_at: 2024-12-19
+last_modified_at: 2024-12-20
 ---
 
 <div class="overview">
@@ -25,10 +25,16 @@ Earlier in the class, I knew I was interested in exploring slow technology and s
 
 I focused my annotated bibliography around these research areas, though afterwards I ended up diving into writings on temporality and time politics from feminist, queer, and critical disability perspectives. Reading bits of Sarah Sharma's [In the Meantime](https://www.dukeupress.edu/in-the-meantime) shifted my interests - questioning the assumptions of the world accelerating for everyone in it, she reveals the often unequal, entangled politics of temporal experience.
 
-A lot of these explorations aligned with my research for my major research project (MRP). This started with a small spread of keywords that I was interested in exploring and connecting, and which slowly grew throughout the term. This keyword map definitely helped not only with developing my ideas for my MRP, but also for this research paper.
+A lot of these explorations aligned with my research for my major research project (MRP) - there's been a lot of overlap/crossover/entanglement. This started with a small spread of keywords that I was interested in exploring and connecting, and which slowly grew throughout the term. This keyword map helped not only with developing my ideas for my MRP, but also with the trajectory of this research paper.
 
 <img style="border:none;" alt="Scan of research keywords in notebook" src="{{site.baseurl}}/assets/keywords.JPG">
 
-## The Idea of Fermentation
+## Bringing Fermentation Into It
 
-As we were approaching reading week, I was preparing to visit my parents - my mom and I had been planning to make kimchi with a friend and her mom, who was visiting from Korea and bringing her mother's homemade gochugaru.
+As we were approaching reading week, I was preparing to visit my parents - my mom and I had been planning to make kimchi with a friend and her mom, who was visiting from Korea and bringing her own mother's homemade gochugaru.
+
+My mom has been making large batches of kimchi lately with communities of students, turning the act of fermentation into a collaborative act that brings people together, sharing the fruits of this collective labour with students, family, and friends within and beyond these circles. When my friends come over, she offers them a jar to take home. It's been fascinating to watch how these jars of bubbling, lively, fermented cabbage have been carefully cultivated by many different hands in my mother's kitchen, to be distributed to new hands and bellies. (We are not Korean - we're actually Vietnamese, but my mom loves fermented foods and has been really into learning from [Maangchi](https://www.maangchi.com/) and her Korean friends recently.)
+
+## I'm not done with this! ah! eep!
+
+There'll be more here soon. I'm still trying to transfer my messy notes into something readable here. If you're Graham, pls come back soon!! &#128534;
